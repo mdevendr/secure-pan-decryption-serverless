@@ -2,7 +2,7 @@
 
 > **Author:** [Mahesh Devendran](https://www.linkedin.com/in/mahesh-devendran-83a3b214/)  
 > **Role:** Cloud Architect | AWS | Serverless | DR | AI Automation | Compliance  
-> **Whitepaper:** [📘 Download PDF](./Secure_PAN_Decryption_Serverless_PrivateLink_Whitepaper_v3.pdf)
+> **Whitepaper:** [📘 Download PDF](./whitepaper/Secure_PAN_Decryption_Serverless_PrivateLink_Whitepaper_v3.pdf)
 
 ---
 
