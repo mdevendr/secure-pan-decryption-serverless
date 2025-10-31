@@ -1,0 +1,56 @@
+# Create a strong dual-license file: CC BY-NC-ND 4.0 for docs + Apache 2.0 for code
+
+license_text = """\
+# 📘 License for Secure PAN Decryption — Serverless PrivateLink Pattern Repository
+
+© 2025 Mahesh Devendran  
+Cloud Architect | AWS | Serverless | DR | AI Automation | Compliance  
+https://www.linkedin.com/in/mahesh-devendran-83a3b214/
+
+---
+
+## 🧾 Documentation & Design License (CC BY-NC-ND 4.0)
+
+This documentation, whitepaper, architecture diagrams, and design content are licensed under the
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **NonCommercial** — You may not use the material for commercial purposes.
+- **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
+
+License Details: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+---
+
+## 💻 Code License (Apache License 2.0)
+
+Any source code, examples, or infrastructure-as-code templates in this repository
+are licensed under the Apache License, Version 2.0 (the "License").
+
+You may obtain a copy of the License at:  
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License
+is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+---
+
+## 📜 Summary
+
+- Documentation, diagrams, and whitepapers → **Creative Commons BY-NC-ND 4.0**
+- Code, IaC, and scripts → **Apache License 2.0**
+- Author: **Mahesh Devendran (2025)**
+
+This dual-license model protects the intellectual integrity of the design while
+encouraging non-commercial research and open collaboration.
+"""
+
+license_path = "/mnt/data/LICENSE_Mahesh_Devendran_PAN_Decryption.txt"
+with open(license_path, "w") as f:
+    f.write(license_text)
+
+license_path
