@@ -38,3 +38,15 @@ The architecture integrates **AWS KMS**, **PrivateLink**, and optionally **Cloud
 ---
 
 ## Included Artifacts
+
+
+## References & Compliance Standards
+
+- [PCI DSS v4.0 — Payment Card Industry Standards](https://www.pcisecuritystandards.org/)
+- [ISO/IEC 27001:2022 — Information Security Management](https://www.iso.org/standard/27001)
+- [EU DORA Regulation (2022/2554)](https://eur-lex.europa.eu/eli/reg/2022/2554)
+- [NIST FIPS 140-2 / 140-3 — Cryptographic Module Validation](https://csrc.nist.gov/projects/cryptographic-module-validation-program)
+- [AWS KMS Cryptographic Documentation](https://docs.aws.amazon.com/kms/latest/developerguide/crypto-intro.html)
+- [AWS CloudHSM FIPS 140-2 Certificate Reference](https://aws.amazon.com/cloudhsm/faqs/)
+- [RSA-OAEP-SHA256 (RFC 8017)](https://datatracker.ietf.org/doc/html/rfc8017)
+- [AWS Signature Version 4 Signing Process](https://docs.aws.amazon.com/general/latest/gr/signing_aws_api_requests.html)
