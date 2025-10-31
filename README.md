@@ -28,7 +28,8 @@ The architecture integrates **AWS KMS**, **PrivateLink**, and optionally **Cloud
 ---
 <img width="6496" height="2320" alt="Secure Pan Decryption" src="https://github.com/user-attachments/assets/19fee2fc-858f-48f1-b61a-79cf38f104f5" />
 
-[ Linkedin article ]  (https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy)
+<sub>[LinkedIn article](https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy)</sub>
+
 ---
 
 ## Security & Compliance Highlights
