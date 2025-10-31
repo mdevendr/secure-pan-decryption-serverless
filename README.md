@@ -25,6 +25,9 @@ The architecture integrates **AWS KMS**, **PrivateLink**, and optionally **Cloud
 | **Crypto (Optional)** | HSM Custody | CloudHSM | Provides hardware-backed key control (FIPS 140-2 L3) |
 | **Observability** | Monitoring & Compliance | CloudWatch, CloudTrail, S3, Azure Sentinel | Captures immutable audit and security logs |
 
+<img width="6496" height="2320" alt="Secure Pan Decryption" src="https://github.com/user-attachments/assets/19fee2fc-858f-48f1-b61a-79cf38f104f5" />
+
+### [ Linkedin article ]  (https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy)
 ---
 
 ## Security & Compliance Highlights
