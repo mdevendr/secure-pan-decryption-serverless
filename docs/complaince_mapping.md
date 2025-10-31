@@ -1,11 +1,11 @@
-# 🧩 AWS Service–Compliance Mapping and Control Alignment
+# AWS Service–Compliance Mapping and Control Alignment
 
 This document maps AWS components used in the **Secure PAN Decryption — Serverless PrivateLink Pattern (PCI Compliant)** architecture to their corresponding regulatory and security standards.  
 It provides quick reference alignment across **PCI DSS 4.0**, **ISO/IEC 27001:2022**, **DORA (EU 2022/2554)**, and **FIPS 140-2** controls.
 
 ---
 
-## 📊 Compliance Mapping Table
+## Compliance Mapping Table
 
 | AWS Service | Primary Function | PCI DSS (3.4–3.6) | ISO 27001 (A.10, A.12) | DORA (Art. 9) | FIPS 140-2 |
 |--------------|------------------|-------------------|-------------------------|----------------|--------------|
@@ -23,7 +23,7 @@ It provides quick reference alignment across **PCI DSS 4.0**, **ISO/IEC 27001:20
 
 ---
 
-## 🧾 Summary
+## Summary
 
 Each AWS service aligns to specific compliance and security objectives:  
 - **AWS KMS** enforces encryption lifecycle and cryptographic control.  
