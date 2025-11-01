@@ -29,7 +29,7 @@ The architecture integrates **AWS KMS**, **PrivateLink**, and optionally **Cloud
 <img width="6456" height="2560" alt="Secure PAN Processor" src="https://github.com/user-attachments/assets/00e81411-6ff7-4326-8fe5-f0870c1ce951" />
 
 
-<sub>[LinkedIn article](https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy)</sub>
+[LinkedIn Profile](https://www.linkedin.com/in/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy/)
 
 ---
 
