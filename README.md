@@ -26,7 +26,8 @@ The architecture integrates **AWS KMS**, **PrivateLink**, and optionally **Cloud
 | **Observability** | Monitoring & Compliance | CloudWatch, CloudTrail, S3, Azure Sentinel | Captures immutable audit and security logs |
 
 ---
-<img width="6456" height="2560" alt="Secure PAN Processor" src="https://github.com/user-attachments/assets/00e81411-6ff7-4326-8fe5-f0870c1ce951" />
+<img width="6456" height="2560" alt="Secure PAN Processor" src="https://github.com/user-attachments/assets/5dd9dbca-41d3-4f44-b745-3685eaebc74f" />
+
 
 
 [LinkedIn article](https://www.linkedin.com/posts/mahesh-devendran-83a3b214_aws-serverless-security-activity-7390124066550226945-gfTy/)
